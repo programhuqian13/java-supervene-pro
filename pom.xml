@@ -11,6 +11,14 @@
 
     <description>java 并发编程之美</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>3.3.0</version>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>
